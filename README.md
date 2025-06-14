@@ -1,35 +1,60 @@
 # BeeLingual
 
-BeeLingual is a language learning application designed to make language learning more engaging and effective.
-
-## Description
-
-[Add a detailed description of your project here]
+BeeLingual is a modern flashcard application built with Flutter, designed to make language learning more engaging and effective through an intuitive, bee-themed interface.
 
 ## Features
 
-- [List key features here]
-- [Feature 2]
-- [Feature 3]
+* Interactive flashcards with smooth swipe animations
+* Category-based word organization
+* Show/hide translations
+* Favorites system
+* Progress tracking
+* Beautiful bee-themed design
+* Dark mode support
 
-## Installation
+## Tech Stack
 
-```bash
-# Add installation steps here
-```
+* Flutter
+* Provider for state management
+* Google Fonts
+* Flutter SVG
+* Card Swiper
+* Shared Preferences for local storage
 
-## Usage
+## Getting Started
 
-[Add usage instructions here]
+### Prerequisites
+
+* Flutter SDK (>=3.0.0)
+* Dart SDK (>=3.0.0)
+* Android Studio or VS Code with Flutter extensions
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/huseyintutan/BeeLingual.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd BeeLingual
+   ```
+
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the app:
+   ```bash
+   flutter run
+   ```
 
 ## Contributing
 
-[Add contribution guidelines here]
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Add license information here]
-
-## Contact
-
-[Add contact information here] 
+This project is licensed under the MIT License - see the LICENSE file for details.
